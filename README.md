@@ -9,7 +9,7 @@ The SecureWebEC2-VPC repository enables the easy deployment of a highly secure E
 - **Custom VPC Setup**: Automates the creation of a custom VPC and subnet for EC2 instance deployment.
 - **SSH Access Control**: Restricts access to SSH, enhancing security by preventing unauthorized changes.
 - **Automated Web Server Configuration**: Seamlessly sets up a web server for efficient handling of web traffic with protocols HTTP and 
-    HTTTPS 
+    HTTPS 
 - **Easy Deployment**: Simplified steps to deploy a secure EC2 instance with detailed instructions.
 
 ## Usage
